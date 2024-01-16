@@ -18,7 +18,7 @@ J'ai utiliser  Python avec ces bibliothèques comme Pandas pour l'analyse de don
 # CONTEXTE DU SUJET
 
 # DATAFRAME INFO
-
+<img width="426" alt="Info 2" src="https://github.com/MarvinLaurac/Prevision-des-prix-de-l-immobilier-canadien/assets/152433361/a5b672d4-1a9a-4579-843b-8e00ff6c810b">
 # LICENCE
 kaggle (Database Contents License (DbCL) v1.0)
 
